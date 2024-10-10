@@ -14,7 +14,7 @@ setup(
     description="Pré-processamento de corpus para português e inglês usando spaCy.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/alexxs2/package-template",
+    url="https://github.com/alexxs2/Pr--processamento.pacote",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
