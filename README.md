@@ -63,14 +63,14 @@ pip install Pre_processamento
 
 Português
 ```python
-from Pre_processamento.Pre_pt_br import P_pt_br
-P_pt_br("Seu corpus em português aqui.")
+from Pre_processamento.Pre_pt_br import Pro_pt_br
+Pro_pt_br.P_pt_br("Seu corpus em português aqui.")
 ```
 
 Inglês
 ```python
-from Pre_processamento.Pre_eng import P_eng
-P_eng("Your English corpus here.")
+from Pre_processamento.Pre_eng import Pro_eng
+Pro_eng.P_eng("Your English corpus here.")
 ```
 ## Requisitos
 Para assegurar o correto funcionamento do pacote, é necessário realizar o download dos modelos de linguagem do spaCy para português e inglês.
