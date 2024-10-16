@@ -56,7 +56,7 @@ O pacote **Pre_processamento** oferece uma solução eficiente para o pré-proce
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o pacote:
 
 ```bash
-pip install Pre_processamento
+pip install Pre-processamento==0.0.1
 ```
 
 ## Modo de uso
